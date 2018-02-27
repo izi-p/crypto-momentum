@@ -1,13 +1,13 @@
 # crypto-momentum
-A simple node.js momentum cryptocurrency backtesting &amp; trading app :rocket:
+:rocket: :sparkles: A simple node.js cryptocurrency backtesting & trading momentum-algorithm using ccxt
 
 ## Roadmap
 
 ### Backtest
 - [X] Get historical CoinMarketCap datas.
 - [ ] Compute performances according to timeStamp
-- [ ] Create a reference portfolio
-- [ ] Create a backtesting tool that uses arguments like timeStamp, basket size and returns the Profit & Loss versus the reference PnL
+- [ ] Create a benchmark portfolio
+- [ ] Create a backtesting tool that uses arguments like timeStamp, basket size and returns the Profit & Loss versus the benchmark PnL
 - [ ] Include the trading fees in this tool
 - [ ] Create a webpage to help visualize and configure backtests
 
